@@ -1,7 +1,7 @@
 go-retryablehttp
 ================
 
-[![Build Status](http://img.shields.io/travis/hashicorp/go-retryablehttp.svg?style=flat-square)][travis]
+[![Build Status](https://github.com/hashicorp/go-retryablehttp/actions/workflows/go-retryablehttp.yml/badge.svg)](https://github.com/hashicorp/go-retryablehttp/actions/workflows/go-retryablehttp.yml)
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
 
 [travis]: http://travis-ci.org/hashicorp/go-retryablehttp
